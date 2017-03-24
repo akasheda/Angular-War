@@ -1,0 +1,18 @@
+body {
+	height: 100%;
+	background: url(images/war.jpg) center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.headline {
+	background-color: rgba(0, 0, 0, 0.4);
+	max-width: 30%;
+	margin: auto;
+	color: red;
+	padding-left: 4px;
+	word-wrap: break-word;
+	/*	breaks word rather than break line midway*/
+}
